@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8d118ba5478f1484cb4e47b5f99b7ded
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 299607
+  packageName: CompassHUD
+  packageVersion: 1.1
+  assetPath: Assets/RiverExplorer/Compass/Scripts/CompassControl.cs
+  uploadId: 704247

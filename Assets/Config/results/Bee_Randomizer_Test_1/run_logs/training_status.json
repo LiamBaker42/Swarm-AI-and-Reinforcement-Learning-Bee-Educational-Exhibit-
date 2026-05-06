@@ -1,0 +1,65 @@
+{
+    "BeeLearner": {
+        "checkpoints": [
+            {
+                "steps": 3499891,
+                "file_path": "results\\Bee_Randomizer_Test_1\\BeeLearner\\BeeLearner-3499891.onnx",
+                "reward": 2.6359945171409183,
+                "creation_time": 1771443368.9669874,
+                "auxillary_file_paths": [
+                    "results\\Bee_Randomizer_Test_1\\BeeLearner\\BeeLearner-3499891.pt"
+                ]
+            },
+            {
+                "steps": 3999889,
+                "file_path": "results\\Bee_Randomizer_Test_1\\BeeLearner\\BeeLearner-3999889.onnx",
+                "reward": 2.541844599880278,
+                "creation_time": 1771443775.9411602,
+                "auxillary_file_paths": [
+                    "results\\Bee_Randomizer_Test_1\\BeeLearner\\BeeLearner-3999889.pt"
+                ]
+            },
+            {
+                "steps": 4499776,
+                "file_path": "results\\Bee_Randomizer_Test_1\\BeeLearner\\BeeLearner-4499776.onnx",
+                "reward": 2.9488298784602773,
+                "creation_time": 1771444184.3204193,
+                "auxillary_file_paths": [
+                    "results\\Bee_Randomizer_Test_1\\BeeLearner\\BeeLearner-4499776.pt"
+                ]
+            },
+            {
+                "steps": 4999845,
+                "file_path": "results\\Bee_Randomizer_Test_1\\BeeLearner\\BeeLearner-4999845.onnx",
+                "reward": 2.5552420643242924,
+                "creation_time": 1771444592.3251543,
+                "auxillary_file_paths": [
+                    "results\\Bee_Randomizer_Test_1\\BeeLearner\\BeeLearner-4999845.pt"
+                ]
+            },
+            {
+                "steps": 5005025,
+                "file_path": "results\\Bee_Randomizer_Test_1\\BeeLearner\\BeeLearner-5005025.onnx",
+                "reward": 2.472304931945271,
+                "creation_time": 1771444635.4210267,
+                "auxillary_file_paths": [
+                    "results\\Bee_Randomizer_Test_1\\BeeLearner\\BeeLearner-5005025.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5005025,
+            "file_path": "results\\Bee_Randomizer_Test_1\\BeeLearner.onnx",
+            "reward": 2.472304931945271,
+            "creation_time": 1771444635.4210267,
+            "auxillary_file_paths": [
+                "results\\Bee_Randomizer_Test_1\\BeeLearner\\BeeLearner-5005025.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
